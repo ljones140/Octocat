@@ -1,1 +1,5 @@
-Explain what a branch is, in your own words
+A Branch is a concept is source control where you can create a branch at whatever exisiting commit on the repo (and current branches) you would like to make changes/write new code in a seperate area form the main(or other branches).
+
+Git startes by defaukt in one branch. The master. At any commit on master you can create a new branch and do code changes etc as you please. If you desire you can then join the new branch to the master branch using the merge and/or rebase commands.
+
+Branching allows flexibility and encouranges experimentation within development while (if you use git properly) keeping the code base safe.
